@@ -1,6 +1,6 @@
 {
   "name": "react-gtm-module-dnp",
-  "version": "2.0.13",
+  "version": "2.0.14",
   "description": "React Google Tag Manager Module",
   "main": "src/index.js",
   "scripts": {
