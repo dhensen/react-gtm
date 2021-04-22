@@ -37,4 +37,4 @@ const Snippets = {
   }
 }  
 
-module.exports = Snippets
+export default Snippets

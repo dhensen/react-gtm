@@ -2,7 +2,7 @@
   "name": "react-gtm-module-dnp",
   "version": "2.0.12",
   "description": "React Google Tag Manager Module",
-  "main": "dist/index.js",
+  "main": "src/index.js",
   "scripts": {
     "lint": "eslint .",
     "jest": "jest",
